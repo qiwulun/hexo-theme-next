@@ -5,6 +5,7 @@ menu:
   archives: /archives
   tags: /tags
   about: /about
+  wiki: /wiki/index.html
   #commonweal: /404.html
 
 # Place your favicon.ico to /source directory.
