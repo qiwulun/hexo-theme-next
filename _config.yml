@@ -5,11 +5,11 @@ menu:
   archives: /archives
   tags: /tags
   about: /about
-  wiki: /wiki/index.html
+  wiki: /wiki
   #commonweal: /404.html
 
 # Place your favicon.ico to /source directory.
-favicon: /favicon.ico
+favicon: /pen.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo,Mala"
@@ -30,7 +30,7 @@ icon_font: default
 # Code Highlight theme
 # Available value: normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night
+highlight_theme: night eighties
 
 
 # MathJax Support
@@ -45,8 +45,8 @@ scheme: Mala
 #  - post    expand on posts automatically. Default.
 #  - always  expand for all pages automatically
 #  - hide    expand only when click on the sidebar toggle icon.
-sidebar: post
-#sidebar: always
+sidebar: always
+#sidebar: post
 #sidebar: hide
 
 
