@@ -2,6 +2,7 @@
 .idea/
 *.log
 node_modules/
+hexo-org-cache/
 
 # Ignore unused verdors' files
 source/vendors/fancybox/*
