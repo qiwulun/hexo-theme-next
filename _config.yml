@@ -10,6 +10,7 @@ menu:
 
 # Place your favicon.ico to /source directory.
 favicon: /pen.ico
+avatar: /assets/avatar.jpg
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo,Mala"
